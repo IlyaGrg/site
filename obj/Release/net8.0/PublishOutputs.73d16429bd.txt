@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\ASP.NET Core.exe
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\appsettings.Development.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\appsettings.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\ASP.NET Core.dll
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\ASP.NET Core.deps.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\ASP.NET Core.runtimeconfig.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\publish\ASP.NET Core.pdb

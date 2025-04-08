@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.exe
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.deps.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.runtimeconfig.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.dll
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\ASP.NET Core.pdb
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\scopedcss\bundle\ASP.NET Core.styles.css
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\scopedcss\projectbundle\ASP.NET Core.bundle.scp.css
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets\msbuild.ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets\msbuild.ASP.NET Core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets\msbuild.build.ASP.NET Core.props
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core.props
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core.props
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.dll
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\refint\ASP.NET Core.dll
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.pdb
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ASP.NET Core.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\obj\Release\net8.0\ref\ASP.NET Core.dll
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\web.config
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\ASP.NET Core.deps.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\ASP.NET Core.runtimeconfig.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\ASP.NET Core.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\Илья\ASP.NET Core\ASP.NET Core\ASP.NET Core\bin\Release\net8.0\publish\wwwroot\chatbot\data-1.json

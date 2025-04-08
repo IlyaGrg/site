@@ -1,0 +1,291 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET_Core
+build_property.RootNamespace = ASP.NET_Core
+build_property.ProjectDir = C:\Users\drtan\OneDrive\Рабочий стол\ASP.NET Core\ASP.NET Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\drtan\OneDrive\Рабочий стол\ASP.NET Core\ASP.NET Core
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/AfterTheSmuta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQWZ0ZXJUaGVTbXV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/AlexeyMikhailovich.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQWxleGV5TWlraGFpbG92aWNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Association.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQXNzb2NpYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/BeforeTheMongols.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQmVmb3JlVGhlTW9uZ29scy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Crusaders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQ3J1c2FkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/FirstPrinces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRmlyc3RQcmluY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Fragmentation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRnJhZ21lbnRhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/HayDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSGF5RGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/IvanTheTerrible.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSXZhblRoZVRlcnJpYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/LastRurikovitch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcTGFzdFJ1cmlrb3ZpdGNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Mongols.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcTW9uZ29scy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Comments/Smuta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcU211dGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/AfganWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxBZmdhbldhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/BerlinsWall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxCZXJsaW5zV2FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Breznev.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxCcmV6bmV2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/CollapseOfTheUSSR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxDb2xsYXBzZU9mVGhlVVNTUi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Eltsin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxFbHRzaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/HoldWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxIb2xkV2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/IndustrializationAndCollectivization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxJbmR1c3RyaWFsaXphdGlvbkFuZENvbGxlY3Rpdml6YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/KhrushchevsThaw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxLaHJ1c2hjaGV2c1RoYXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Krym.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxLcnltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Perestroika.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxQZXJlc3Ryb2lrYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/Putin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxQdXRpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/RussiaBefore2022.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxSdXNzaWFCZWZvcmUyMDIyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/SecondHollyWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxTZWNvbmRIb2xseVdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/SovetFinnishWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxTb3ZldEZpbm5pc2hXYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/StalinsRepresions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxTdGFsaW5zUmVwcmVzaW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/USSR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxVU1NSLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/ModernHistory/USSRAfterSecondHolyWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJuSGlzdG9yeVxVU1NSQWZ0ZXJTZWNvbmRIb2x5V2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/AlexanderFirst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxBbGV4YW5kZXJGaXJzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/AlexandrSecond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxBbGV4YW5kclNlY29uZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/AlexandrSecondSocialMoves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxBbGV4YW5kclNlY29uZFNvY2lhbE1vdmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/AlexandrThird.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxBbGV4YW5kclRoaXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/CivilWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxDaXZpbFdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/DecemberInsurrection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxEZWNlbWJlckluc3VycmVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/Ekaterina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxFa2F0ZXJpbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/FebruaryRevolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxGZWJydWFyeVJldm9sdXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/FirstWorldWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxGaXJzdFdvcmxkV2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/HolyWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxIb2x5V2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/KrimWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxLcmltV2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/NicolaiFrist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxOaWNvbGFpRnJpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/NicolaiSecond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxOaWNvbGFpU2Vjb25kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/OctoberRevolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxPY3RvYmVyUmV2b2x1dGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/PalaceCoups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxQYWxhY2VDb3Vwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/Pavel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxQYXZlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/PetersReforms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxQZXRlcnNSZWZvcm1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/RussiaBefore1700.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxSdXNzaWFCZWZvcmUxNzAwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/NewHistory/TheNorthWar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SGlzdG9yeVxUaGVOb3J0aFdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Post/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Post/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/drtan/OneDrive/Рабочий стол/ASP.NET Core/ASP.NET Core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k53p2nswt4
